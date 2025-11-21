@@ -19,6 +19,5 @@ manifest:
       remote: prospector
       revision: feature/v2.0-scanner-touch
       path: modules/prospector-zmk-module
-      #
   self:
     path: config
